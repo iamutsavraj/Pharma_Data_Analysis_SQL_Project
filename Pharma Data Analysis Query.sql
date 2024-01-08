@@ -1,0 +1,1 @@
+SELECT * FROM pharma_analysis.pharma_data_analysis;
